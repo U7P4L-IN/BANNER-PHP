@@ -25,7 +25,7 @@ ANONYMOUS U7P4L
  pip install mechanize
  cd $HOME 
  rm -rf Banner.PHP
- git clone https://github.com/ANONYMOUS-U7P4L/Banner.PHP
+ git clone https://github.com/U7P4L-IN/Banner.PHP.git
 ```
 #### RUN SCRIPT
 ```python
