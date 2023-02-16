@@ -27,9 +27,9 @@ ANONYMOUS U7P4L
  rm -rf Banner.PHP
  git clone https://github.com/U7P4L-IN/Banner.PHP.git
 
-cd Banner.PHP
+ cd Banner.PHP
 
-php Adv.php
+ php Adv.php
 ```
 
 
