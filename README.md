@@ -1,6 +1,8 @@
 <p align="center">
-____Welcome____
 
+Welcome⚡
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
 
 AUTHOR:
 <p align="center">
