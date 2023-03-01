@@ -55,8 +55,8 @@ $des = array("\n\033[94m\033[01m   █████╗ ██████╗ █�
        "\n\033[39m      ██████╔╝██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║",
        "\n\033[39m      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝",
        "\n\t\t\t\t\t\t\033[93m    php",
-       "\n\n\t\033[01m\033[32m    [+] CODED BY ANONYMOUS U7P4L CYBER \n",
-       "\t\033[32m    [+] 👑 OWNER OF ANONYMOUS U7P4Lᵀᴹ \n\n");
+       "\n\n\t\033[01m\033[32m    [+] CODED BY U7P4L IN CYBER \n",
+       "\t\033[32m    [+] 👑 OWNER OF U7P4L INᵀᴹ \n\n");
 foreach ($des as $de){
 	print $de;
 	usleep(20000);
