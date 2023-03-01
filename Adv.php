@@ -70,7 +70,7 @@ function els(){
 	unset($jc);
 	unset($ac);
 	sleep(2);
-	system('php Adv-Banner.php');
+	system('php Adv.php');
 	}
 function menu(){
 	$me = array( "\n     \t\t\033[93m\033[40m[1] Add Banner\033[49m\n",
