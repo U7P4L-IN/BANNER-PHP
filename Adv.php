@@ -1,6 +1,6 @@
 <?php
 #coded By ANONYMOUS U7P4L
-#follow me on github http://github.com/ANONYMOUS-U7P4L
+#follow me on github http://github.com/U7P4L-IN
 
 system('git pull');
 if ( ! file_exists("/data/data/com.termux/files/usr/bin/cowsay")){
@@ -55,7 +55,7 @@ $des = array("\n\033[94m\033[01m   █████╗ ██████╗ █�
        "\n\033[39m      ██████╔╝██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║",
        "\n\033[39m      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝",
        "\n\t\t\t\t\t\t\033[93m    php",
-       "\n\n\t\033[01m\033[32m    [+] CODED BY U7P4L IN CYBER \n",
+       "\n\n\t\033[01m\033[32m    [+] CODED BY U7P4L IN \n",
        "\t\033[32m    [+] 👑 OWNER OF U7P4L INᵀᴹ \n\n");
 foreach ($des as $de){
 	print $de;
@@ -291,7 +291,7 @@ elseif ( $bcho == 8 ){
 	}
 
 elseif ( $bcho == 9 ){
-	system("xdg-open https://github.com/DaVe-Smith-89/Animation-Banner-Help");
+	system("xdg-open https://github.com/U7P4L-IN/Banner.PHP");
 	sleep(5);
 	logo();
 	bannermenu();
@@ -311,9 +311,9 @@ logo();
 menu();
 
 if ( $a == 1 ){
-	$link = array("https://t.me/utpalme",
-		      "https://github.com/ANONYMOUS-U7P4L",
-		      "https://github.com/ANONYMOUS-U7P4L",
+	$link = array("https://t.me/AN0NYM0U5_CY83R",
+		      "https://github.com/U7P4L-IN",
+		      "https://github.com/U7P4L-IN",
 		      "https://youtu.be/utpalme" );
 	shuffle($link);
 	system("xdg-open ".$link[0]);
@@ -329,14 +329,14 @@ elseif ( $a == 2 ){
 
 elseif ( $a == 3 ){
 	logo();
-	$about = array("\n\033[44m\033[39mANONYMOUS U7P4L\033[49m\n\n",
-              "\n\033[93m\t     \033[40mCoded By ANONYMOUS U7P4L ᶜʸᴮᴱᴿ \033[49m\n",
-              "\n\033[93m\t     \033[40mBy ANONYMOUS U7P4L (A Technical channell )\033[49m\n",
-              "\n\033[93m\t     \033[40mBy:\033[49m\n",
+	$about = array("\n\033[44m\033[39mU7P4L 1N\033[49m\n\n",
+              "\n\033[93m\t     \033[40mCODED BYANONYMOUS U7P4L ᶜʸᴮᴱᴿ \033[49m\n",
+              "\n\033[93m\t     \033[40mBY ANONYMOUS U7P4L (A Technical channell )\033[49m\n",
+              "\n\033[93m\t     \033[40mBY:\033[49m\n",
 	      "\033[93m\t\t     \033[40mANONYMOUS U7P4L \033[49m\n",
               "\n\033[93m\t     \033[40mJoin us:\033[49m\n",
-	      "\033[93m\t\t     \033[40mTelegram: http://t.me/utpalme\033[49m\n\n\n",
-	      "\033[44m\033[39mANONYMOUS U7P4L\033[49m\n\n" );
+	      "\033[93m\t\t     \033[40mTelegram: https://t.me/AN0NYM0U5_CY83R\033[49m\n\n\n",
+	      "\033[44m\033[39mU7P4L 1N\033[49m\n\n" );
 	foreach ( $about as $abo ){
 		print($abo);
 		usleep(20000);
@@ -364,13 +364,13 @@ elseif ( $a == 4 ){
 		}
 	$jc = readline("\033[94mEnter your choice: ");
 	if ( $jc == 1 ){
-		system("xdg-open https://github.com/ANONYMOUS-U7P4L ");
+		system("xdg-open https://github.com/U7P4L-IN ");
 		sleep(5);
 		logo();
 		menu();
 		}
 	elseif ( $jc == 2 ){
-		system("xdg-open https://t.me/utpalme");
+		system("xdg-open https://t.me/AN0NYM0U5_CY83R");
 		sleep(5);
 		logo();
 		menu();
@@ -385,7 +385,7 @@ elseif ( $a == 4 ){
 	}
 
 elseif ( $a == 5 ){
-	system("xdg-open http://t.me/utpalme");
+	system("xdg-open https://t.me/AN0NYM0U5_CY83R");
 	sleep(5);
 	system("php Adv-Banner.php");
 	}
