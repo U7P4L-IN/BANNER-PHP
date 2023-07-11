@@ -314,7 +314,7 @@ if ( $a == 1 ){
 	$link = array("https://t.me/AN0NYM0U5_CY83R",
 		      "https://github.com/U7P4L-IN",
 		      "https://github.com/U7P4L-IN",
-		      "https://youtu.be/utpalme" );
+		      "https://youtube.com/utpalme" );
 	shuffle($link);
 	system("xdg-open ".$link[0]);
 	logo();
