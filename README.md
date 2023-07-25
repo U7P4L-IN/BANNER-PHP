@@ -28,10 +28,10 @@ AUTHOR:
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf Banner.PHP
- git clone --depth=1 https://github.com/U7P4L-IN/Banner.PHP.git
+ rm -rf BANNER-PHP
+ git clone --depth=1 https://github.com/U7P4L-IN/BANNER-PHP.git
 
- cd Banner.PHP
+ cd BANNER-PHP
 
  ls
 
@@ -44,4 +44,4 @@ AUTHOR:
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=Banner.PHP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=BANNER-PHP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
